@@ -1,0 +1,40 @@
+body{
+    background-color:aliceblue;
+    
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+h1{
+    text-align: center;
+    color:rgb(101, 2, 101);
+    font-size:50px;
+    font-weight: bolder;
+}
+h2{
+    color:cadetblue;
+    font-weight: lighter;
+    font-size:30;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h3{
+    color:black;
+}
+
+h4, h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:burlywood;
+}
+
+#topid{
+    color:cadetblue;
+}
+.backgroundimagehorse{
+    background-image: url("https://lh3.googleusercontent.com/pw/AP1GczOKkfxiAxE-iCZImm6h265m4INR_z2n1X8v785kFSP9Pt3WFF8tQbeBcYgmzsgR4nsDJSiLXYEs_Md5f3j8XGbWq3tqS8HAjESkob2xGrN8XIXNgE9v8jdvUH6Wn6ZVpZVp4roGsLpCe1H6xFPm7e8XyMri6LTQrVygjm3hgO7dzBW7fKgMmXz_s0_VTwMcbjyh029ujMQvMhqkNFelccCM1N3hsibikkWVpU0Es2rGCf4mOuL5tRSCTeKU4LdxMDcDe97qUdIRD7iUdyHYot_8Xgytey7zq7gj07GV4ogL_C8ohIbc-FOQFsODfr6xWWoH8JNZUnKIMzVkMTQH_8cTx38veuJJK62KrRa242lhE3K0GguI8zW2V3O3mD87ztma8ZjLqZhQ4GAAmibxzky-Iut5MTx48Xzp4tlGFTe1FNZ1pwf0NxTBqGt8ixtdR0daRD76xctO2edWGtX10y-BuzggBJ1QY327qjyWf5VLP4c6gs34mMLFr8M13aKT5tTBakjMcQqHRs-Ck1CpIabRAWuGGsIiGAPix4BiaPSf_mWQlBfV32J38Pv03Z4uJMAsU6WOmpa7qi-oasOxkTvvsdD9xwSeXM7vwU45-cGeeA1mKT2n-nYgTbjddQMFUCbHQ_lITNE1J8ouIKPlXbpXKXc0On-BhUAjZNCiFATZYVdwEDNbCq04_vByNS2mM6coUbmobIRXnEcwRCOnngY8aFCWB5dp_MIUJXjizGwNyv7Btwvu50v-k98AduITbNdUOWDu7304wbbq7ekdOuOKm4DpE_YWTDO-nVvEpIp8zWLw8VCQd1od7UXte9uctCiaYdrhn_Tf_GKrv9TEu3sRRtCYHvyaqnJ2toXF3X4DSmc8nSMFH99opNKh9j9capkDoihxNe_H3JcZlxlwRETH=w1744-h1308-s-no-gm?authuser=0"
+    );
+    background-repeat:repeat;
+    background-size: 1500px;
+    opacity: 60%;
+}
